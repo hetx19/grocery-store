@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/grocery-store/static/css/main.21c5ae14.css",
+    "main.js": "/grocery-store/static/js/main.4345e2aa.js",
+    "static/media/home-img.png": "/grocery-store/static/media/home-img.8ceb11e1d08c4212d788.png",
+    "static/media/deal-bg.jpg": "/grocery-store/static/media/deal-bg.e65c0ff5e9ce745b988b.jpg",
+    "static/media/product-6.png": "/grocery-store/static/media/product-6.e96741757da143edb7d0.png",
+    "static/media/banner-1.jpg": "/grocery-store/static/media/banner-1.4ec0bdd960671ac349c4.jpg",
+    "static/media/banner-2.jpg": "/grocery-store/static/media/banner-2.3befe594d68bae7c7107.jpg",
+    "static/media/category-1.png": "/grocery-store/static/media/category-1.5351ac844f8d265e14c9.png",
+    "static/media/product-5.png": "/grocery-store/static/media/product-5.c23b72aff43261684098.png",
+    "static/media/product-3.png": "/grocery-store/static/media/product-3.4456394fe6b391e2e652.png",
+    "static/media/product-2.png": "/grocery-store/static/media/product-2.984d2d325248bf7fedf9.png",
+    "static/media/product-7.png": "/grocery-store/static/media/product-7.e07fb61e8ace3b86225b.png",
+    "static/media/newsletter-bg.jpg": "/grocery-store/static/media/newsletter-bg.68076a1ba98a0b872108.jpg",
+    "static/media/product-9.png": "/grocery-store/static/media/product-9.db481ed1f2b6b597482c.png",
+    "static/media/product-8.png": "/grocery-store/static/media/product-8.6266440ad8778bb8388d.png",
+    "static/media/product-1.png": "/grocery-store/static/media/product-1.74883ac6ec50f9026ddc.png",
+    "static/media/product-4.png": "/grocery-store/static/media/product-4.06a477a38c58d9792b11.png",
+    "static/media/category-4.png": "/grocery-store/static/media/category-4.0d4dcc078c2061ffad53.png",
+    "static/media/category-3.png": "/grocery-store/static/media/category-3.6224244f5fbc2b6bb004.png",
+    "static/media/category-2.png": "/grocery-store/static/media/category-2.6c13f3bb224a712745b4.png",
+    "index.html": "/grocery-store/index.html",
+    "main.21c5ae14.css.map": "/grocery-store/static/css/main.21c5ae14.css.map",
+    "main.4345e2aa.js.map": "/grocery-store/static/js/main.4345e2aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c5ae14.css",
+    "static/js/main.4345e2aa.js"
+  ]
+}
